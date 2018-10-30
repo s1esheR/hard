@@ -1,0 +1,6 @@
+#ifndef ARRAY_2_H_INCLUDED
+#define ARRAY_2_H_INCLUDED
+
+
+
+#endif // ARRAY_2_H_INCLUDED

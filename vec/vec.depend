@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1540934838 source:c:\program files (x86)\codeblocks\vec\main.cpp
+	<iostream>
+	"header_t4.h"
+	"task.h"
+
+1540934937 c:\program files (x86)\codeblocks\vec\header_t4.h
+	<vector>
+	<iostream>
+
+1540939939 c:\program files (x86)\codeblocks\vec\task.h
+	<vector>
+	"header_t4.h"
+	<iostream>
+
